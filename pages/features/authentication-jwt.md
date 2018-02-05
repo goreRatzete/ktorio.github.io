@@ -2,7 +2,7 @@
 title: JWT Authentication
 caption: Authenticating Clients with JWT / JWK  
 section: Features
-permalink: /features/authentication.html
+permalink: /features/authentication-jwt.html
 ---
 
 Ktor supports client authentication using JSON Web Tokens. The currently supported implementations are JWT and JWK. Both rely on the Auth0 implementations.
